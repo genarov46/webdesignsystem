@@ -1,0 +1,196 @@
+.project {
+    color: blue;
+    text-align: center;
+  }
+  .colors{
+    border:2px solid gray;
+    padding:10px;
+    margin:10px auto;
+  }
+  .color-container{
+      column-count: 2;
+  }
+  .color-title{
+    text-align: center;
+  }
+  .blue{
+    border:1px solid transparent;
+    background-color:#0000FF;
+    padding: .5px;
+    margin:1px 1px 5px;
+    color:#ffff
+  }
+  .blue{
+    text-align:center;
+  }
+  .green{
+    border:1px solid transparent;
+    background-color:#008000;
+    padding:.5px;
+    margin:1px 1px 5px;
+    color:#ffff
+  }
+  .green{
+    text-align:center;
+  }
+  .red{
+    border:1px solid transparent;
+    background-color:rgb(255,0,0);
+    padding:.5px;
+    margin:1px 1px 5px;
+    color:#ffff
+  }
+  .red{
+    text-align:center;
+  }
+  .black{
+    border:1px solid transparent;
+    background-color:rgb(0,0,0);
+    padding:.5px;
+    margin:1px 1px 5px;
+    color:#ffff
+  }
+  .black{
+    text-align:center;
+  }
+  .fonts{
+    border:2px solid gray;
+    padding:10px;
+    margin:10px auto;
+  }
+  .fonts-title{
+    text-align: center;
+  }
+  .fonts-container{
+    column-count:2;
+  }
+  .georgia{
+    border:3px solid #0000FF;
+    padding: 13px;
+    margin:1px 1px 5px;
+  }
+  .georgia{
+    text-align:center;
+  }
+  .georgia-para1{
+    font-family: Georgia, serif;
+    font-weight: normal;
+  }
+  .georgia-para2{
+    font-weight: bold;
+    font-family: Georgia, serif;
+  }
+  .georgia-para3{
+    font-weight: 100;
+  }
+  .gill{
+    border:3px solid #008000;
+    padding:5px;
+    margin:1px 1px;
+  }
+  .gill{
+    text-align:center;
+  }
+  .gill-para1{
+    font-family: "Gill Sans", sans-serif;
+    font-weight: lighter;
+  }
+  .gill-para2{
+  font-family: "Gill Sans", sans-serif;
+  font-weight: bolder;
+  }
+  .gill-para3{
+    font-family: "Gill Sans", sans-serif;
+    font-weight: 100;
+  }
+  .roboto{
+    border:3px solid rgb(255,0,0);
+    padding:12px;
+    margin:1px 1px 5px;
+  }
+  .roboto{
+    text-align:center;
+  }
+  .roboto-para1{
+    font-family: roboto;
+    font-weight: lighter;
+  }
+  .roboto-para2{
+    font-family: roboto;
+    font-weight: 400;
+  }
+  .roboto-para3{
+    font-family: roboto;
+    font-weight: bold;
+  }
+  .system{
+    border:3px solid rgb(0,0,0);
+    padding:5px;
+    margin:1px 1px;
+  }
+  .system{
+    text-align:center;
+  }
+  .system-para1{
+    font-family: system-ui;
+    font-weight: lighter;
+  }
+  .system-para2{
+    font-family: system-ui;
+    font-weight: 900;
+  }
+  .system-para3{
+    font-family: system-ui;
+    font-weight: 600;
+  }
+  .text-styles{
+    border:2px solid gray;
+    padding:10px;
+    margin:10px auto;
+  }
+  .styles-title{
+    text-align:center;
+  }
+  .styles-container{
+    column-count:2;
+  }
+  .h1{
+    border:1px solid transparent;
+    background-color:#0000FF;
+    padding: .5px;
+    margin:1px 1px 5px;
+    color:#ffff
+  }
+  .styles-h1{
+    text-align:center;
+  }
+  .h2{
+    border:1px solid transparent;
+    background-color:#008000;
+    padding:0px;
+    margin: 1px 1px 5px;
+    color:#ffff
+  }
+  .styles-h2{
+    text-align:center;
+  }
+  .h3{
+    border:1px solid transparent;
+    background-color:rgb(255,0,0);
+    padding:10px;
+    margin:1px 1px 5px;
+    color:#ffff
+  }
+  .styles-h3{
+    text-align:center;
+  }
+  .para{
+    border:1px solid transparent;
+    background-color:rgb(0,0,0);
+    padding:10px;
+    margin:1px 1px 5px;
+    color:#ffff
+  }
+  .styles-para{
+    text-align:center;
+  }
