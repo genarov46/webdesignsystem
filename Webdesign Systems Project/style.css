@@ -22,6 +22,7 @@
   }
   .blue{
     text-align:center;
+    border-radius: 10px;
   }
   .green{
     border:1px solid transparent;
@@ -32,6 +33,7 @@
   }
   .green{
     text-align:center;
+    border-radius: 10px;
   }
   .red{
     border:1px solid transparent;
@@ -42,6 +44,7 @@
   }
   .red{
     text-align:center;
+    border-radius: 10px;
   }
   .black{
     border:1px solid transparent;
@@ -52,6 +55,7 @@
   }
   .black{
     text-align:center;
+    border-radius: 10px;
   }
   .fonts{
     border:2px solid gray;
@@ -71,6 +75,7 @@
   }
   .georgia{
     text-align:center;
+    border-radius: 10px;
   }
   .georgia-para1{
     font-family: Georgia, serif;
@@ -90,6 +95,7 @@
   }
   .gill{
     text-align:center;
+    border-radius: 10px;
   }
   .gill-para1{
     font-family: "Gill Sans", sans-serif;
@@ -110,6 +116,7 @@
   }
   .roboto{
     text-align:center;
+    border-radius: 10px;
   }
   .roboto-para1{
     font-family: roboto;
@@ -130,6 +137,7 @@
   }
   .system{
     text-align:center;
+    border-radius: 10px;
   }
   .system-para1{
     font-family: system-ui;
@@ -161,6 +169,8 @@
     margin:1px 1px 5px;
     color:#ffff
   }
+  .h1{
+      border-radius: 10px;}
   .styles-h1{
     text-align:center;
   }
@@ -171,6 +181,8 @@
     margin: 1px 1px 5px;
     color:#ffff
   }
+  .h2{
+      border-radius: 10px;}
   .styles-h2{
     text-align:center;
   }
@@ -181,6 +193,8 @@
     margin:1px 1px 5px;
     color:#ffff
   }
+  .h3{
+      border-radius: 10px;}
   .styles-h3{
     text-align:center;
   }
@@ -191,6 +205,8 @@
     margin:1px 1px 5px;
     color:#ffff
   }
+  .para {
+      border-radius: 10px;}
   .styles-para{
     text-align:center;
   }
